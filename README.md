@@ -6,6 +6,10 @@
 - [To power AI, data centers need more and more energy](https://news.ucsb.edu/2025/021835/power-ai-data-centers-need-more-and-more-energy?utm_source=newsletter&utm_medium=email&utm_content=To%20power%20AI%2C%20data%20centers%20need%20more%20and%20more%20energy&utm_campaign=April%2017%2C%202025), by Michaela Galarza (UC Current); features Eric Masanet
 - [Generative AI in education and research: A systematic mapping review](https://doi.org/10.1002/rev3.3489), Yusuf et al. 2024 (Review of Education)
 
+### AI in research
+- [Is it OK for AI to write science papers? Nature survey shows researchers are split](https://www.nature.com/articles/d41586-025-01463-8), Diana Kwon (Nature news feature)
+- [Low-quality papers are surging by exploiting public data sets and AI](https://www.science.org/content/article/low-quality-papers-are-surging-exploiting-public-data-sets-and-ai), Cathleen O'Grady (Science Insider)
+
 ## UCSB resources:
 - [Generative Artificial Intelligence in Teaching and Learning](https://otl.ucsb.edu/ai), UCSB OTL
 - [AI 101 - Campus Edition](https://otl.ucsb.edu/tales/ai-101)
