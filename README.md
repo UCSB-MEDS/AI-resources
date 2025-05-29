@@ -14,3 +14,7 @@
 - [Generative Artificial Intelligence in Teaching and Learning](https://otl.ucsb.edu/ai), UCSB OTL
 - [AI 101 - Campus Edition](https://otl.ucsb.edu/tales/ai-101)
 - [AI 102 - AI Fundamentals](https://otl.ucsb.edu/tales/ai-102)
+
+## Tool: 
+
+- [Codadaptive Labs](https://www.codaptivelabs.com/home) (curated prompts for a variety of tasks)
