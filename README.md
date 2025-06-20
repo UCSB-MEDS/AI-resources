@@ -5,6 +5,7 @@
 ### AI in education
 - [Generative AI in education and research: A systematic mapping review](https://doi.org/10.1002/rev3.3489), Yusuf et al. 2024 (Review of Education)
 - [ChatGPT May Be Eroding Critical Thinking Skills, According to a New MIT Study](https://time.com/7295195/ai-chatgpt-google-learning-school/) (Times; see [pre-print](https://arxiv.org/pdf/2506.08872v1))
+- [Everyone Is Cheating Their Way Through College: ChatGPT has unraveled the entire academic project](https://drive.google.com/file/d/1uazmfKEpCWuF5icwcX3SvAZiIabkpLUB/view?usp=sharing) (New York Magazine, copy saved to Google Drive)
 
 ### AI in research
 - [Is it OK for AI to write science papers? Nature survey shows researchers are split](https://www.nature.com/articles/d41586-025-01463-8), Diana Kwon (Nature news feature)
