@@ -11,6 +11,9 @@
 - [Is it OK for AI to write science papers? Nature survey shows researchers are split](https://www.nature.com/articles/d41586-025-01463-8), Diana Kwon (Nature news feature)
 - [Low-quality papers are surging by exploiting public data sets and AI](https://www.science.org/content/article/low-quality-papers-are-surging-exploiting-public-data-sets-and-ai), Cathleen O'Grady (Science Insider)
 
+### AI in progrmaming
+- [Building an entire app with an LLM](https://www.youtube.com/watch?v=WgOhtH3lugk), Daniel Jackson (MIT 2024)
+
 ### Ethics around AI usage
 - [Opening a conversation on responsible environmental data science in the age of large language models](https://www.cambridge.org/core/journals/environmental-data-science/article/opening-a-conversation-on-responsible-environmental-data-science-in-the-age-of-large-language-models/95FD09526541A19436F3A18ADE332953), Oliver et al. 2024 (Environmental Data Science)
 - [The unequal adoption of ChatGPT exacerbates existing inequalities among workers](https://www.pnas.org/doi/10.1073/pnas.2414972121), Humlum & Vestergaard 2024 (PNAS)
