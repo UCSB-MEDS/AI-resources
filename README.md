@@ -27,3 +27,6 @@
 ## Tools: 
 
 - [Codadaptive Labs](https://www.codaptivelabs.com/home) (curated prompts for a variety of tasks)
+
+Issues to keep tabs on:
+- [R/RStudio constantly freezing, related to GitHub Copilo](https://github.com/rstudio/rstudio/issues/16249)
