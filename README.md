@@ -8,6 +8,7 @@
 - [Everyone Is Cheating Their Way Through College: ChatGPT has unraveled the entire academic project](https://drive.google.com/file/d/1uazmfKEpCWuF5icwcX3SvAZiIabkpLUB/view?usp=sharing) (New York Magazine, copy saved to Google Drive)
 - [CITRAL AI syllabus policies - Pre-Fall Workshops
 ](https://docs.google.com/document/d/1ZkQUbIaeh9o8IcDj_SmY7RIO2Rqe1ZdkO8wrBR0pc88/edit?tab=t.0) (September 16, 2025) + [slides](https://docs.google.com/presentation/d/1M-_EnY1rMtEF8kJadBGJUK-5aiu6-nHUDcjDKBRlQM4/edit?slide=id.g38a3f3401a3_0_234#slide=id.g38a3f3401a3_0_234)
+- [AI 101 - Campus Edition](https://otl.ucsb.edu/tales/ai-101) (UCSB OTL resources)
 
 ### AI in research
 - [Is it OK for AI to write science papers? Nature survey shows researchers are split](https://www.nature.com/articles/d41586-025-01463-8), Diana Kwon (Nature news feature)
