@@ -16,6 +16,7 @@
 
 ### AI in progrmaming
 - [Building an entire app with an LLM](https://www.youtube.com/watch?v=WgOhtH3lugk), Daniel Jackson (MIT 2024)
+- [Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity](https://arxiv.org/abs/2507.09089), Becker et al. 2025
 
 ### Ethics around AI usage
 - [Opening a conversation on responsible environmental data science in the age of large language models](https://www.cambridge.org/core/journals/environmental-data-science/article/opening-a-conversation-on-responsible-environmental-data-science-in-the-age-of-large-language-models/95FD09526541A19436F3A18ADE332953), Oliver et al. 2024 (Environmental Data Science)
