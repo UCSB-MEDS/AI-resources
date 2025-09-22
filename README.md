@@ -24,6 +24,7 @@
 - [To power AI, data centers need more and more energy](https://news.ucsb.edu/2025/021835/power-ai-data-centers-need-more-and-more-energy?utm_source=newsletter&utm_medium=email&utm_content=To%20power%20AI%2C%20data%20centers%20need%20more%20and%20more%20energy&utm_campaign=April%2017%2C%202025), by Michaela Galarza (UC Current); features Eric Masanet
 
 ## UCSB resources:
+- [MEDS Generative AI Guidelines](https://docs.google.com/document/d/1zS2feiWGEmw6-slkl1IATRmA85172mCo4RyHYz8fSd4/edit?tab=t.0#heading=h.zafksxm7fdqm), MEDS Curriculum Cohesion Committee
 - [Generative Artificial Intelligence in Teaching and Learning](https://otl.ucsb.edu/ai), UCSB OTL
 - [AI 101 - Campus Edition](https://otl.ucsb.edu/tales/ai-101)
 - [AI 102 - AI Fundamentals](https://otl.ucsb.edu/tales/ai-102)
