@@ -26,6 +26,7 @@
 
 ## UCSB resources:
 - [MEDS Generative AI Guidelines](https://docs.google.com/document/d/1zS2feiWGEmw6-slkl1IATRmA85172mCo4RyHYz8fSd4/edit?tab=t.0#heading=h.zafksxm7fdqm), MEDS Curriculum Cohesion Committee
+- [MEDS AI for Environmental Data Science Workshop Series](https://ucsb-meds.github.io/AI-for-EDS/), MEDS faculty & staff
 - [Generative Artificial Intelligence in Teaching and Learning](https://otl.ucsb.edu/ai), UCSB OTL
 - [AI 101 - Campus Edition](https://otl.ucsb.edu/tales/ai-101)
 - [AI 102 - AI Fundamentals](https://otl.ucsb.edu/tales/ai-102)
